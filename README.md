@@ -2,15 +2,31 @@
 Breast cancer classification using machine learning techniques
 # Environment and Tools
 Jupyter Notebook
+
+
 Pandas
+
+
 Sklearn
+
+
 Matplotlib
+
+
 Seaborn
 # ML algorithms 
 Random Forest
+
+
 SVC
+
+
 Ada Boost
+
+
 Gradient Boost
+
+
 XGBoost
 # Feature selection and Feature Extraction techniques
 For feature selection plotted heatmap to visualize correlations among different features and also drawn feature importances using Random Forest Classifier.
